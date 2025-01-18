@@ -42,3 +42,11 @@ This project predicts stock prices using historical data and a Long Short-Term M
 1. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
+
+   ## Screenshots
+
+### Correlation Heatmap
+![Heatmap](heatmap.png)
+
+### Actual vs Predicted Prices
+![Graph](graph.png)
